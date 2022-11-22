@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20221117-0339-Experimental"
+	Name="COMPUTADOR"
+	Generator="ctest-3.25.0"
+	CompilerName="C:/msys64/mingw64/bin/g++.exe"
+	CompilerVersion="12.1.0"
+	OSName="Windows"
+	Hostname="COMPUTADOR"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19043)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="26506"
+	TotalPhysicalMemory="8074"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1800"
+	>
+	<Testing>
+		<StartDateTime>Nov 17 23:35 [NON-UTF-8-BYTE-0xD4][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xEB][NON-UTF-8-BYTE-0xFF][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xE4][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xFF] ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
+		<StartTestTime>1668720942</StartTestTime>
+		<TestList>
+			<Test>./test/MainTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>MainTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/MainTests</FullName>
+			<FullCommandLine>"C:\Users\PC\Documents\VS Projects\Project\build\test\MainTests.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0357593</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\PC\Documents\VS Projects\Project\build\test\MainTests.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUMFOwzAMvecrfFwPTeCKxAGt0w5oULWMS1WhEEzVqbGnJAU+n4ZUE0VC6js92c9+9qtGop46sLqnTQbvji1sb9TRo/Oq3KqCzWiRglfPNZSOT2gmPhPVMXcDBvQL6p1RXWQvcas0RjS3F7RQzZbXEDXJcuZ+7ANK0eQXtLAf+FUPqY/00TumeBB4DPl4/iP+vXP3pe15wKep4EUD1fEBftAuOrJAy+SD0wH3sXLQxnEcSHi8XzcAmyuwPlt3ThJD4KCHTKz7N6B2+Rt/0jLN/1IEp0kufaaXyru63hUxg6SV4hs6W6XK====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 17 23:35 [NON-UTF-8-BYTE-0xD4][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xEB][NON-UTF-8-BYTE-0xFF][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xE4][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xFF] ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
+		<EndTestTime>1668720942</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
