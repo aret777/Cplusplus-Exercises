@@ -15,16 +15,16 @@
 ########################
 
 //Value Computed by CMake
-$(This)C_BINARY_DIR:STATIC=C:/Users/PC/Documents/VS Projects/Project/build-cmake
+$(This)C_BINARY_DIR:STATIC=C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build-cmake
 
 //Value Computed by CMake
 $(This)C_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-$(This)C_SOURCE_DIR:STATIC=C:/Users/PC/Documents/VS Projects/Project
+$(This)C_SOURCE_DIR:STATIC=C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises
 
 //Value Computed by CMake.
-CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=C:/Users/PC/Documents/VS Projects/Project/build-cmake/CMakeFiles/pkgRedirects
+CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build-cmake/CMakeFiles/pkgRedirects
 
 //Program used to build from makefiles.
 CMAKE_MAKE_PROGRAM:STRING=nmake
@@ -44,7 +44,7 @@ CMAKE_PROJECT_NAME:STATIC=$(This)C
 ########################
 
 //This is the directory where this CMakeCache.txt was created
-CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/PC/Documents/VS Projects/Project/build-cmake
+CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build-cmake
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
@@ -71,7 +71,7 @@ CMAKE_GENERATOR_PLATFORM:INTERNAL=
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/PC/Documents/VS Projects/Project
+CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises
 //ADVANCED property for variable: CMAKE_MAKE_PROGRAM
 CMAKE_MAKE_PROGRAM-ADVANCED:INTERNAL=1
 //number of local generators

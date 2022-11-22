@@ -344,7 +344,7 @@
 				{
 					"directoryIndex" : 4,
 					"id" : "MainTests::@36f028580bb02cc8272a",
-					"jsonFile" : "target-MainTests-Debug-ae14886c0a107ac7d2d8.json",
+					"jsonFile" : "target-MainTests-Debug-c7a66a0ae4efd4377088.json",
 					"name" : "MainTests",
 					"projectIndex" : 0
 				},
@@ -421,35 +421,35 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "PROJECT::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PROJECT-Debug-d405096913160897f46f.json",
+					"jsonFile" : "target-PROJECT-Debug-ac10fcc0f32e1ef5b99a.json",
 					"name" : "PROJECT",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "gmock::@d68da25237a7ca2351af",
-					"jsonFile" : "target-gmock-Debug-466a1cebfe4bf0859fa6.json",
+					"jsonFile" : "target-gmock-Debug-67ecf3c4a3fdcbf9bab6.json",
 					"name" : "gmock",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "gmock_main::@d68da25237a7ca2351af",
-					"jsonFile" : "target-gmock_main-Debug-139d31686799e48c71d6.json",
+					"jsonFile" : "target-gmock_main-Debug-984c58c02c250d12ed3e.json",
 					"name" : "gmock_main",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "gtest::@f95b5c00bd49b3b4698d",
-					"jsonFile" : "target-gtest-Debug-576b0dd9bd0a2c5c333d.json",
+					"jsonFile" : "target-gtest-Debug-cdca1f2444ba2196487c.json",
 					"name" : "gtest",
 					"projectIndex" : 3
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "gtest_main::@f95b5c00bd49b3b4698d",
-					"jsonFile" : "target-gtest_main-Debug-5b9aca853622a1bd3ba3.json",
+					"jsonFile" : "target-gtest_main-Debug-deadccbe82fa47c4550a.json",
 					"name" : "gtest_main",
 					"projectIndex" : 3
 				}
@@ -459,8 +459,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/PC/Documents/VS Projects/Project/build",
-		"source" : "C:/Users/PC/Documents/VS Projects/Project"
+		"build" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build",
+		"source" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises"
 	},
 	"version" : 
 	{

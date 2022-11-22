@@ -14,7 +14,7 @@ enable_testing()
 add_subdirectory(googletest)
 
 set(Headers
-    Example.hpp
+    ArrayExercise1.hpp
 )
 
 set(Sources

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/PC/Documents/VS Projects/Project/googletest
+# Install script for directory: C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/PC/Documents/VS Projects/Project/build/googletest/googlemock/cmake_install.cmake")
+  include("C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build/googletest/googlemock/cmake_install.cmake")
 
 endif()
 

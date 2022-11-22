@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project/build"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build"
 		},
 		{
 			"name" : "$(This)C_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises"
 		},
 		{
 			"name" : "BUILD_GMOCK",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/PC/Documents/VS Projects/Project/build"
+			"value" : "c:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -707,7 +707,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1822,6 +1822,22 @@
 			"value" : "[C:/Python310/python.exe][cfound components: Interpreter ][v3.10.4()]"
 		},
 		{
+			"name" : "GITCOMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/Git/cmd/git.exe"
+		},
+		{
 			"name" : "GTEST_HAS_ABSL",
 			"properties" : 
 			[
@@ -2071,7 +2087,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project/build/googletest/googletest/generated"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build/googletest/googletest/generated"
 		},
 		{
 			"name" : "gmock_BINARY_DIR",
@@ -2083,7 +2099,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project/build/googletest/googlemock"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build/googletest/googlemock"
 		},
 		{
 			"name" : "gmock_IS_TOP_LEVEL",
@@ -2119,7 +2135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project/googletest/googlemock"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googlemock"
 		},
 		{
 			"name" : "gmock_build_tests",
@@ -2159,7 +2175,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project/build/googletest"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build/googletest"
 		},
 		{
 			"name" : "googletest-distribution_IS_TOP_LEVEL",
@@ -2183,7 +2199,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project/googletest"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest"
 		},
 		{
 			"name" : "gtest_BINARY_DIR",
@@ -2195,7 +2211,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project/build/googletest/googletest"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build/googletest/googletest"
 		},
 		{
 			"name" : "gtest_IS_TOP_LEVEL",
@@ -2219,7 +2235,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Documents/VS Projects/Project/googletest/googletest"
+			"value" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest"
 		},
 		{
 			"name" : "gtest_build_samples",

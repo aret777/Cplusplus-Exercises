@@ -1,32 +1,32 @@
 [
 {
-  "directory": "C:/Users/PC/Documents/VS Projects/Project/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\PROJECT.dir\\Main.cpp.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Project\\Main.cpp\"",
-  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Project\\Main.cpp"
+  "directory": "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\PROJECT.dir\\Main.cpp.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\Main.cpp\"",
+  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\Main.cpp"
 },
 {
-  "directory": "C:/Users/PC/Documents/VS Projects/Project/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/PC/Documents/VS Projects/Project/googletest/googlemock/include\" -I\"C:/Users/PC/Documents/VS Projects/Project/googletest/googlemock\" -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Project\\googletest\\googlemock\\src\\gmock-all.cc\"",
-  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Project\\googletest\\googlemock\\src\\gmock-all.cc"
+  "directory": "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googlemock/include\" -I\"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googlemock\" -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\googletest\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\googletest\\googlemock\\src\\gmock-all.cc"
 },
 {
-  "directory": "C:/Users/PC/Documents/VS Projects/Project/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googlemock/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googlemock\" -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Project\\googletest\\googlemock\\src\\gmock_main.cc\"",
-  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Project\\googletest\\googlemock\\src\\gmock_main.cc"
+  "directory": "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googlemock/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googlemock\" -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\googletest\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\googletest\\googlemock\\src\\gmock_main.cc"
 },
 {
-  "directory": "C:/Users/PC/Documents/VS Projects/Project/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest/include\" -I\"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Project\\googletest\\googletest\\src\\gtest-all.cc\"",
-  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Project\\googletest\\googletest\\src\\gtest-all.cc"
+  "directory": "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest/include\" -I\"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\googletest\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\googletest\\googletest\\src\\gtest-all.cc"
 },
 {
-  "directory": "C:/Users/PC/Documents/VS Projects/Project/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Project\\googletest\\googletest\\src\\gtest_main.cc\"",
-  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Project\\googletest\\googletest\\src\\gtest_main.cc"
+  "directory": "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\googletest\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\googletest\\googletest\\src\\gtest_main.cc"
 },
 {
-  "directory": "C:/Users/PC/Documents/VS Projects/Project/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Project/googletest/googletest\" -g -o test\\CMakeFiles\\MainTests.dir\\MainTests.cpp.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Project\\test\\MainTests.cpp\"",
-  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Project\\test\\MainTests.cpp"
+  "directory": "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest/include\" -isystem \"C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest\" -g -o test\\CMakeFiles\\MainTests.dir\\MainTests.cpp.obj -c \"C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\test\\MainTests.cpp\"",
+  "file": "C:\\Users\\PC\\Documents\\VS Projects\\Cplusplus-Exercises\\test\\MainTests.cpp"
 }
 ]

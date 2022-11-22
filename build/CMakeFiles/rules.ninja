@@ -137,7 +137,7 @@ rule CXX_EXECUTABLE_LINKER__MainTests_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -S"C:\Users\PC\Documents\VS Projects\Project" -B"C:\Users\PC\Documents\VS Projects\Project\build"
+  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -S"C:\Users\PC\Documents\VS Projects\Cplusplus-Exercises" -B"C:\Users\PC\Documents\VS Projects\Cplusplus-Exercises\build"
   description = Re-running CMake...
   generator = 1
 

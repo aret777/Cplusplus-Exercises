@@ -53,12 +53,12 @@
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/PC/Documents/VS Projects/Project/googletest/googletest/include"
+					"path" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest/include"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/PC/Documents/VS Projects/Project/googletest/googletest"
+					"path" : "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/googletest/googletest"
 				}
 			],
 			"language" : "CXX",

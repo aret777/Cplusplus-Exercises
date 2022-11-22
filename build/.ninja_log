@@ -11,3 +11,15 @@
 12303	12725	6903580184153601	lib/libgmock.a	b475f0c936f51c4b
 12725	12803	6903580184941487	lib/libgmock_main.a	60bb9ebbbb759478
 1864	5854	6904241423621195	test/MainTests.exe	1228d0ce36ac0bea
+18	853	6907949297019033	CMakeFiles/PROJECT.dir/Main.cpp.obj	9fa5d27720e1755d
+854	993	6907949298380175	libPROJECT.a	2dd94b4062392fad
+30	2424	6907949312700566	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	49bd4c4969b014fb
+34	2668	6907949315180066	test/CMakeFiles/MainTests.dir/MainTests.cpp.obj	1124d0649bf47c75
+23	2988	6907949318390581	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	bc76aeb0c53a3876
+21	4627	6907949334734653	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	a26d30ca486bb17c
+26	10694	6907949395333596	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	6a4d8ab2e8ddbb6f
+10694	13202	6907949420521333	lib/libgtest.a	5bcba283829ad802
+13204	13284	6907949421361746	lib/libgtest_main.a	bbc4130581fe18e8
+13202	13586	6907949424364377	lib/libgmock.a	b475f0c936f51c4b
+13586	13660	6907949425115100	lib/libgmock_main.a	60bb9ebbbb759478
+13284	17295	6907949461397092	test/MainTests.exe	1228d0ce36ac0bea

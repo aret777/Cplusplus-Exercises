@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/PC/Documents/VS Projects/Project/test
+# Install script for directory: C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
