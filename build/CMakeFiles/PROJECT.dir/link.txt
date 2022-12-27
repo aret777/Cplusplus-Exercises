@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libPROJECT.a CMakeFiles/PROJECT.dir/Main.cpp.obj
+C:\mingw64\bin\ranlib.exe libPROJECT.a

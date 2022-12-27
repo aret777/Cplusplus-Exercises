@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20221227-1726-Experimental"
+	Name="DESKTOP-8DBJDJP"
+	Generator="ctest-3.25.1"
+	CompilerName="C:/mingw64/bin/g++.exe"
+	CompilerVersion="12.2.0"
+	OSName="Windows"
+	Hostname="DESKTOP-8DBJDJP"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="10297"
+	TotalPhysicalMemory="8074"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1800"
+	>
+	<Testing>
+		<StartDateTime>Dec 27 19:26 ????????? (????)</StartDateTime>
+		<StartTestTime>1672161965</StartTestTime>
+		<TestList>
+			<Test>./test/MainTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>MainTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/MainTests</FullName>
+			<FullCommandLine>"C:\Users\User\Documents\VS Projects\Cplusplus-Exercises\build\test\MainTests.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0729547</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\User\Documents\VS Projects\Cplusplus-Exercises\build\test\MainTests.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUMFqwzAMvfsrdGwOCdt1sMNoQg9jXUnWXZIwPFcLLrYVLGfr5y9uSmkGgzyweUhP0pPKwTntOrBSu1UCX54srB+aPaPn89/kpAaLLnDzXsHO0xHVyNe9GTi+tDihV5qRm46oMxiQwy1lr5ouso84I1NK1I9XtFBeDNxD1EwGLpwHHTATdXpFCxtDn9JMeXTf2pOL5oAxpEP/R3zbszhJ2xt8GwMsaij3WzijnWWyHC05Dl4G3MTIi1SeYsGE1+dlBbC6A8vJMjuTGAIFaRKxbN+A0qcH+nHza/53RfDSZfM540q7p6oq8niDSZuJX9N+rTc=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Dec 27 19:26 ????????? (????)</EndDateTime>
+		<EndTestTime>1672161965</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

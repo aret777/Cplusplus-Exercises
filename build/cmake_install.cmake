@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises
+# Install script for directory: C:/Users/User/Documents/VS Projects/Cplusplus-Exercises
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,17 +34,17 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/msys64/mingw64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/mingw64/bin/objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build/googletest/cmake_install.cmake")
+  include("C:/Users/User/Documents/VS Projects/Cplusplus-Exercises/build/googletest/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build/test/cmake_install.cmake")
+  include("C:/Users/User/Documents/VS Projects/Cplusplus-Exercises/build/test/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -55,5 +55,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/PC/Documents/VS Projects/Cplusplus-Exercises/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/User/Documents/VS Projects/Cplusplus-Exercises/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
